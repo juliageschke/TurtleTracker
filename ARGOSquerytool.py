@@ -38,4 +38,4 @@ while lineString:
     #the while loop will end
 
 # Close the file
-    fileObj.close()
+fileObj.close()
